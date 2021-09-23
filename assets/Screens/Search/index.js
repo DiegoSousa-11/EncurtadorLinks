@@ -153,8 +153,8 @@ export default function Search({navigation}) {
                     <View style={{marginTop: height/6.5}}>
                         <Text style={{fontFamily: 'Archivo_700Bold', fontSize: 25, 
                         width: formWidth, textAlign: 'center', color: '#B5B5B5'}}>{searchInput == "" ? "Pesquise entre seus links encurtados" : "Nenhum resultado encontrado"}</Text>
-                        <Image style={[{width: formWidth/1.2, height: formWidth/1.67, marginTop: 30}, searchInput == "" ? {left: 40} : {}]} 
-                        source={searchInput == "" ? require('../../img/SearchImage.png') : require('../../img/SearchingImage.png')}/>
+                        <Image style={[{width: formWidth/1.2, height: formWidth/1.52, marginTop: 30}, searchInput == "" ? {left: 30} : {left: 20}]} 
+                        source={searchInput == "" ? require('../../img/searchImage.png') : require('../../img/noResults.png')}/>
                     </View>
                     :
                     <View/>

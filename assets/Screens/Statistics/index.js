@@ -141,7 +141,7 @@ export default function Statistics() {
             
             <View style={[styles.header, {backgroundColor: colors.header}]}>
                 <Text style={styles.screenTitle}>Estatísticas</Text>
-                <Image style={{width: 165, height: 100, marginTop: 'auto', marginLeft: 'auto'}} source={require('../../img/Statistics.png')}/>
+                <Image style={{width: 175, height: 102, marginTop: 'auto', marginLeft: 'auto'}} source={require('../../img/Statistics.png')}/>
             </View>
             
             <ScrollView>
