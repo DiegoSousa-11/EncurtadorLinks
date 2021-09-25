@@ -1,6 +1,6 @@
 <p align="center">
     <img width="250px" alt="Logo" title="Logo" src="./assets/adaptive-icon.png"/>
-    <p style="position: relative;top: -35px" align="center">Aplicativo para encurtar links, desenvolvido em React Native com Expo ⚛️🚀</p>
+    <p align="center">Aplicativo para encurtar links, desenvolvido em React Native com Expo ⚛️🚀</p>
 </p>
 
 <h1 align="center">📌Tabela de conteúdos<h2>
@@ -21,12 +21,12 @@ O Encurtador de Links é uma aplicação mobile desenvolvida em React Native e E
 
 ## :camera: **Demonstração**
 <p align="center">
-    <img style="margin-left: 20px; margin-right: 20px; margin-top: 40px;" width="300px" alt="Encurtador_Links" title="Encurtador_Links" src="./assets/img/Encurtador de Links.gif"/>
-    <img style="margin-left: 20px; margin-right: 20px; margin-top: 40px;" width="300px" alt="Encurtador_Links" title="Encurtador_Links" src="./assets/img/Encurtador de Links - Tema Escuro.gif"/>
-    <img style="margin-left: 20px; margin-right: 20px; margin-top: 40px;" width="300px" alt="Encurtador_Links" title="Encurtador_Links" src="./assets/img/Home.png"/>
-    <img style="margin-left: 20px; margin-right: 20px; margin-top: 40px;" width="300px" alt="Encurtador_Links" title="Encurtador_Links" src="./assets/img/Links.png"/>
-    <img style="margin-left: 20px; margin-right: 20px; margin-top: 40px;" width="300px" alt="Encurtador_Links" title="Encurtador_Links" src="./assets/img/Encurtador de Links - Pesquisa.gif"/>
-    <img style="margin-left: 20px; margin-right: 20px; margin-top: 40px;" width="300px" alt="Encurtador_Links" title="Encurtador_Links" src="./assets/img/Config.png"/>
+    <img width="300px" alt="Encurtador_Links" title="Encurtador_Links" src="./assets/img/Encurtador de Links.gif"/>
+    <img width="300px" alt="Encurtador_Links" title="Encurtador_Links" src="./assets/img/Encurtador de Links - Tema Escuro.gif"/>
+    <img width="300px" alt="Encurtador_Links" title="Encurtador_Links" src="./assets/img/Home.png"/>
+    <img width="300px" alt="Encurtador_Links" title="Encurtador_Links" src="./assets/img/Links.png"/>
+    <img width="300px" alt="Encurtador_Links" title="Encurtador_Links" src="./assets/img/Encurtador de Links - Pesquisa.gif"/>
+    <img width="300px" alt="Encurtador_Links" title="Encurtador_Links" src="./assets/img/Config.png"/>
 </p>
 
 ## :link: **Pré-Requisitos**
