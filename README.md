@@ -30,7 +30,7 @@ O Encurtador de Links é uma aplicação mobile desenvolvida em React Native e E
 </p>
 
 ## :link: **Pré-Requisitos**
-Antes de começar, é necessário ter o <a href="https://reactnative.dev/docs/environment-setup">React Native</a> e <a href="https://docs.expo.dev/get-started/installation/">Expo</a>, além disso, é interessante ter umbom editor de código para trabalhar, como o <a href="https://code.visualstudio.com/Download">VSCODE</a>.
+Antes de começar, é necessário ter o <a href="https://reactnative.dev/docs/environment-setup">React Native</a> e <a href="https://docs.expo.dev/get-started/installation/">Expo</a>, além disso, é interessante ter um bom editor de código para trabalhar, como o <a href="https://code.visualstudio.com/Download">VSCODE</a>.
 
 ## :technologist: **Instalação**
 1. Clonar repositório
